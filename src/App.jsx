@@ -7,8 +7,9 @@ function App() {
   }
   return (
     <>
+     <Counter></Counter>
       <h3>React core concepts</h3>
-      <Counter></Counter>
+     
       <button onClick={handleClick}>Click Me</button>
     </>
   );
