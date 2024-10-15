@@ -7,9 +7,10 @@ function App() {
   }
   return (
     <>
-     <Counter></Counter>
+      <Counter></Counter>
+
       <h3>React core concepts</h3>
-     
+
       <button onClick={handleClick}>Click Me</button>
     </>
   );
