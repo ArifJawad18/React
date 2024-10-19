@@ -9,7 +9,7 @@ function App() {
   }
   return (
     <>
-  <Post></Post>
+      <Post></Post>
       <Users></Users>
       <Counter></Counter>
 
