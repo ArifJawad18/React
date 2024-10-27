@@ -10,7 +10,7 @@ function App() {
   }
   return (
     <>
-    <Countries></Countries>
+      <Countries></Countries>
       <Post></Post>
       <Users></Users>
       <Counter></Counter>
@@ -20,6 +20,6 @@ function App() {
       <button onClick={handleClick}>Click Me</button>
     </>
   );
-} 
+}
 
 export default App;
